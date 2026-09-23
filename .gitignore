@@ -21,3 +21,5 @@ build/
 # Environment Variables
 .env
 .env.local
+
+test.py

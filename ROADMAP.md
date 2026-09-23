@@ -27,10 +27,10 @@
   - Variables, Dynamic typing
   - Primitive types: `int`, `float`, `str`, `bool`
   - String formatting (`f-strings`)
-- [ ] **Control Flow:**
+- [x] **Control Flow:**
   - `if`, `elif`, `else`
   - `for` loops, `while` loops, `break`, `continue`
-- [ ] **Functions Basics:**
+- [x] **Functions Basics:**
   - Function definition (`def`), arguments, return values
   - Default parameters & keyword arguments (`*args`, `**kwargs`)
 

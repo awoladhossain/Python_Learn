@@ -11,7 +11,8 @@ python-production/
 ├── 1_basics/
 │   ├── main.py              # Variables, Types, Type Casting & String Formatting
 │   ├── control_flow.py      # if/elif/else, for/while loops, break & continue
-│   └── functions_basics.py  # def, default args, *args & **kwargs patterns
+│   ├── functions_basics.py  # def, default args, *args & **kwargs patterns
+│   └── calculator_quiz.py   # Practice Milestone: Interactive CLI Calculator & Quiz Tool
 ├── .gitignore               # Standard Python & environment exclusions
 ├── ROADMAP.md               # Detailed phase-by-phase curriculum & milestones
 └── README.md                # Project documentation & execution guide
@@ -22,10 +23,12 @@ python-production/
 ## 🚀 Quickstart & Setup
 
 ### 1. Prerequisites
+
 - **Python:** 3.12+ (Recommended 3.14+)
 - **Git**
 
 ### 2. Virtual Environment Setup
+
 Clone the repository and initialize the Python virtual environment:
 
 ```bash
@@ -50,11 +53,13 @@ source .venv/bin/activate
 ### Phase 0: Fundamentals & Control Flow
 
 1. **Variables & Dynamic Typing:**
+
    ```bash
    python3 1_basics/main.py
    ```
 
 2. **Control Flow (Conditionals & Loops):**
+
    ```bash
    python3 1_basics/control_flow.py
    ```
@@ -62,6 +67,11 @@ source .venv/bin/activate
 3. **Functions Basics (`*args`, `**kwargs`, Type Hints):**
    ```bash
    python3 1_basics/functions_basics.py
+   ```
+
+4. **Practice Milestone (CLI Calculator & Quiz Tool):**
+   ```bash
+   python3 1_basics/calculator_quiz.py
    ```
 
 ---
@@ -81,4 +91,5 @@ The detailed roadmap is tracked in [`ROADMAP.md`](./ROADMAP.md).
 ---
 
 ## 📝 License
+
 This project is open-source and maintained by [Awolad Hossain](https://github.com/awoladhossain).

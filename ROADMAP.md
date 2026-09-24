@@ -19,6 +19,7 @@
 **Goal:** Environment setup kora, Python setup samalano, ebong podstawowa (basic) syntax, control flow o function shekha.
 
 ### 📚 Topics to Cover
+
 - [x] **Python Installation & Virtual Environment:**
   - Python 3.14+ setup (`Python 3.14.6`)
   - `venv` virtual environment created (`.venv`)
@@ -35,7 +36,8 @@
   - Default parameters & keyword arguments (`*args`, `**kwargs`)
 
 ### 🛠️ Practice Milestone
-- **Mini CLI Calculator & Quiz Tool:** Command line a user input niye decision-making ebong loop manage kora.
+
+- [x] **Mini CLI Calculator & Quiz Tool:** Command line a user input niye decision-making ebong loop manage kora. (`1_basics/calculator_quiz.py`)
 
 ---
 
@@ -44,6 +46,7 @@
 **Goal:** Complex data structures, Object-Oriented Programming (OOP), ebong File handling shikhha.
 
 ### 📚 Topics to Cover
+
 - [ ] **Data Structures:**
   - `list`, `tuple`, `set`, `dict`
   - List / Dictionary Comprehensions (Clean & Fast code)
@@ -58,6 +61,7 @@
   - JSON format manipulation (`json` module)
 
 ### 🛠️ Practice Milestone
+
 - **CLI Student/Inventory Management System:** OOP class babohar kore local JSON file e data persist kora ebong Error Handling apply kora.
 
 ---
@@ -67,6 +71,7 @@
 **Goal:** Async programming, Type Hinting, Clean Code practices, ebong Testing framework mastery.
 
 ### 📚 Topics to Cover
+
 - [ ] **Type Annotations & Pydantic Basics:**
   - Python `typing` module (`List`, `Dict`, `Optional`, `Union`)
   - Type Hints keno proyojon (IDE autocompletion + error prevention)
@@ -84,6 +89,7 @@
   - Test assertions, Fixtures, Mocking (`unittest.mock`)
 
 ### 🛠️ Practice Milestone
+
 - **Async Web Scraper / Log Analyzer:** `aiohttp` / `httpx` diye asynchronous HTTP requests pathey data fetch kora ebong `pytest` diye test cases cover kora.
 
 ---
@@ -93,6 +99,7 @@
 **Goal:** Relational database management, SQL, ORM pattern, ebong Database migrations.
 
 ### 📚 Topics to Cover
+
 - [ ] **Relational Database Basics:**
   - PostgreSQL / SQLite setup
   - Basic SQL Queries (SELECT, INSERT, UPDATE, DELETE, JOINs, Indexes)
@@ -106,6 +113,7 @@
   - Generating & applying migrations (`alembic revision --autogenerate`, `alembic upgrade head`)
 
 ### 🛠️ Practice Milestone
+
 - **Database-Backed Task Tracker:** SQLite/PostgreSQL Database integrate kore SQLAlchemy ORM & Alembic migration system toiri kora.
 
 ---
@@ -115,6 +123,7 @@
 **Goal:** Production-grade RESTful API toiri kora FastAPI framework diye.
 
 ### 📚 Topics to Cover
+
 - [ ] **FastAPI Basics:**
   - Path parameters, Query parameters, Request Body
   - Status codes, Custom Responses (`JSONResponse`)
@@ -135,6 +144,7 @@
   - Clean project structure (Controller/Router, Service, Repository, Model, Schema)
 
 ### 🛠️ Practice Milestone
+
 - **User Auth & Management API:** JWT Login, User Registration, Protected routes, Role-based Access Control (RBAC).
 
 ---
@@ -144,11 +154,13 @@
 **Goal:** Production-grade full-featured projects banano.
 
 ### 🏗️ Project 1: URL Shortener & Analytics Microservice
+
 - **Features:** Custom short URL generate kora, Redirect link handle kora, Click Analytics track kora.
 - **Tech Stack:** FastAPI, SQLite/PostgreSQL, Redis (Caching URL redirect speed up korar jonno).
 
 ### 🏗️ Project 2: Production-Ready E-Commerce / SaaS REST API
-- **Features:** 
+
+- **Features:**
   - User Authentication & Authorization (JWT, RBAC)
   - Product Catalog, Cart, Order Management
   - Async Background Tasks (Email Notification mock)
@@ -162,6 +174,7 @@
 **Goal:** API-ke production level operational capability deowa (Monitoring, Logging, Containerization, Deployment).
 
 ### 📚 Topics to Cover
+
 - [ ] **Structured Logging & Configuration:**
   - Environment variables management (`pydantic-settings`)
   - JSON structured logging (`structlog`)

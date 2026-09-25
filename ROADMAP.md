@@ -62,7 +62,7 @@
 
 ### 🛠️ Practice Milestone
 
-- **CLI Student/Inventory Management System:** OOP class babohar kore local JSON file e data persist kora ebong Error Handling apply kora.
+- [x] **CLI Student/Inventory Management System:** OOP class babohar kore local JSON file e data persist kora ebong Error Handling apply kora. (`2_intermediate/inventory_system.py`)
 
 ---
 
@@ -196,8 +196,8 @@
 
 ## 🏁 Summary Checklist for Progression
 
-1. [ ] **Phase 0:** Setup, Syntax, Loops, Functions
-2. [ ] **Phase 1:** Data Structures, OOP, Files, Exceptions
+1. [x] **Phase 0:** Setup, Syntax, Loops, Functions
+2. [x] **Phase 1:** Data Structures, OOP, Files, Exceptions
 3. [ ] **Phase 2:** Types, AsyncIO, Pytest
 4. [ ] **Phase 3:** PostgreSQL, SQLAlchemy, Alembic
 5. [ ] **Phase 4:** FastAPI Core, Dependency Injection, JWT Auth

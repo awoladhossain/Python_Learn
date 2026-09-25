@@ -17,6 +17,7 @@ python-production/
 │   ├── data_structures.py      # Lists, Tuples, Sets, Dicts & Comprehensions
 │   ├── oop_basics.py           # Classes, Encapsulation, Inheritance, Polymorphism & Dunder methods
 │   ├── file_io_exceptions.py   # File handling (with open), Custom Exceptions & JSON operations
+│   ├── inventory_system.py     # Practice Milestone: Enterprise CLI Inventory & Asset Manager
 │   └── data/                   # Runtime data directory (logs, json files)
 ├── .gitignore                  # Standard Python & environment exclusions
 ├── ROADMAP.md                  # Detailed phase-by-phase curriculum & milestones
@@ -92,6 +93,11 @@ source .venv/bin/activate
 3. **File I/O, Exceptions & JSON Manipulation:**
    ```bash
    python3 2_intermediate/file_io_exceptions.py
+   ```
+
+4. **Practice Milestone (CLI Inventory & Asset Manager):**
+   ```bash
+   python3 2_intermediate/inventory_system.py
    ```
 
 ---

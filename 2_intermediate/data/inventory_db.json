@@ -1,0 +1,20 @@
+[
+    {
+        "type": "General",
+        "item_id": "ITM-01",
+        "name": "Ergonomic Chair",
+        "category": "Furniture",
+        "quantity": 15,
+        "price": 150.0
+    },
+    {
+        "type": "ServerAsset",
+        "item_id": "SRV-01",
+        "name": "web-ingress-node",
+        "category": "Server Infrastructure",
+        "quantity": 4,
+        "price": 250.0,
+        "ip_address": "10.0.1.20",
+        "ram_gb": 64
+    }
+]

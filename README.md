@@ -98,5 +98,4 @@ The detailed roadmap is tracked in [`ROADMAP.md`](./ROADMAP.md).
 ---
 
 ## 📝 License
-
 This project is open-source and maintained by [Awolad Hossain](https://github.com/awoladhossain).

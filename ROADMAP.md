@@ -37,7 +37,7 @@
 
 ### 🛠️ Practice Milestone
 
-- [x] **Mini CLI Calculator & Quiz Tool:** Command line a user input niye decision-making ebong loop manage kora. (`1_basics/calculator_quiz.py`)
+- **Mini CLI Calculator & Quiz Tool:** Command line a user input niye decision-making ebong loop manage kora.
 
 ---
 
@@ -47,7 +47,7 @@
 
 ### 📚 Topics to Cover
 
-- [ ] **Data Structures:**
+- [x] **Data Structures:**
   - `list`, `tuple`, `set`, `dict`
   - List / Dictionary Comprehensions (Clean & Fast code)
 - [ ] **Object-Oriented Programming (OOP):**

@@ -1,0 +1,4 @@
+[2026-09-26 00:01:00] [INFO] Server initialization started.
+[2026-09-26 00:01:02] [INFO] Database pool connected (PostgreSQL).
+[2026-09-26 00:01:05] [WARNING] High latency observed on /healthz.
+[2026-09-26 00:01:10] [INFO] Worker health check: OK.

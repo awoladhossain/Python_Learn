@@ -9,15 +9,18 @@ A hands-on, production-grade learning journey designed from a **Senior SRE (Site
 ```plaintext
 python-production/
 ├── 1_basics/
-│   ├── main.py              # Variables, Types, Type Casting & String Formatting
-│   ├── control_flow.py      # if/elif/else, for/while loops, break & continue
-│   ├── functions_basics.py  # def, default args, *args & **kwargs patterns
-│   └── calculator_quiz.py   # Practice Milestone: Interactive CLI Calculator & Quiz Tool
+│   ├── main.py                 # Variables, Types, Type Casting & String Formatting
+│   ├── control_flow.py         # if/elif/else, for/while loops, break & continue
+│   ├── functions_basics.py     # def, default args, *args & **kwargs patterns
+│   └── calculator_quiz.py      # Practice Milestone: Interactive CLI Calculator & Quiz Tool
 ├── 2_intermediate/
-│   └── data_structures.py   # Lists, Tuples, Sets, Dicts & Comprehensions
-├── .gitignore               # Standard Python & environment exclusions
-├── ROADMAP.md               # Detailed phase-by-phase curriculum & milestones
-└── README.md                # Project documentation & execution guide
+│   ├── data_structures.py      # Lists, Tuples, Sets, Dicts & Comprehensions
+│   ├── oop_basics.py           # Classes, Encapsulation, Inheritance, Polymorphism & Dunder methods
+│   ├── file_io_exceptions.py   # File handling (with open), Custom Exceptions & JSON operations
+│   └── data/                   # Runtime data directory (logs, json files)
+├── .gitignore                  # Standard Python & environment exclusions
+├── ROADMAP.md                  # Detailed phase-by-phase curriculum & milestones
+└── README.md                   # Project documentation & execution guide
 ```
 
 ---
@@ -79,6 +82,16 @@ source .venv/bin/activate
 1. **Data Structures & Comprehensions:**
    ```bash
    python3 2_intermediate/data_structures.py
+   ```
+
+2. **Object-Oriented Programming (OOP):**
+   ```bash
+   python3 2_intermediate/oop_basics.py
+   ```
+
+3. **File I/O, Exceptions & JSON Manipulation:**
+   ```bash
+   python3 2_intermediate/file_io_exceptions.py
    ```
 
 ---

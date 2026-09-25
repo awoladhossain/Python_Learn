@@ -50,12 +50,12 @@
 - [x] **Data Structures:**
   - `list`, `tuple`, `set`, `dict`
   - List / Dictionary Comprehensions (Clean & Fast code)
-- [ ] **Object-Oriented Programming (OOP):**
+- [x] **Object-Oriented Programming (OOP):**
   - Classes & Objects
   - Instance variables vs Class variables
   - Inheritance, Encapsulation, Polymorphism
   - Magic Methods (`__init__`, `__str__`, `__repr__`)
-- [ ] **File I/O & Exception Handling:**
+- [x] **File I/O & Exception Handling:**
   - Reading & Writing files (`with open(...)`)
   - `try`, `except`, `finally`, custom Exceptions
   - JSON format manipulation (`json` module)
